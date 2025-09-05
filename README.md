@@ -14,7 +14,7 @@
   - C / C++ / C#
   - Python (a bit)
 - 🐧 Linux experience:
-  - Used **Debian, Fedora, Manjaro**
+  - Used **Debian, Fedora, Manjaro , Arch**
   - Dual-boot and server setups (incl. **iRedMail**, **Apache**, etc.)
 
 ---
