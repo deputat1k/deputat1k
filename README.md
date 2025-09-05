@@ -1,5 +1,3 @@
-<h1 align="center">Hi there 👋, I'm Nazarii</h1>
-
 <p align="center">
   💻 Software Engineering Student • 🌍 Based in Ukraine • 🛠️ Building web projects & exploring Linux
 </p>
@@ -9,7 +7,6 @@
 ### 🧠 About Me
 
 - 🔧 Currently learning: **Backend with Node.js**, **SQL**, **Linux System Admin**
-- 🔭 I’m working on: personal projects, freelance tasks & learning cybersecurity
 - 🧑‍💻 I write code in:
   - JavaScript / Node.js
   - HTML / CSS
@@ -25,7 +22,6 @@
 ### 📫 How to reach me
 
 - ✉️ Email: [deputat1kgit@gmail.com]
-- 🌐 Website: [soon...]
 - 💬 Telegram: [@byte1k]
 
 ---
