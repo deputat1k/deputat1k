@@ -21,7 +21,7 @@
 
 ### 📫 How to reach me
 
-- ✉️ Email: [deputat1kgit@gmail.com]
+- ✉️ Email: [nazariikhanin@gmail.com]
 - 💬 Telegram: [@byte1k]
 
 ---
